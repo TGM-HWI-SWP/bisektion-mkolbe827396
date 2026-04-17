@@ -5,6 +5,7 @@
 ## Beschreibung
 Dieses Projekt dient als Vorlage für ein kleines Softwareentwicklungs- und Projektmanagement-Projekt. Es enthält verschiedene Aufgaben, die jeweils in separaten Dateien bearbeitet werden.
 
+## Marc Kolbe
 ## Aufgaben
 - Aufgabe5.py: [Kurze Beschreibung der Aufgabe]
 - Aufgabe6.py: [Kurze Beschreibung der Aufgabe]
